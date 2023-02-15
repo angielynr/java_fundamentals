@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring/Spring.iml" filepath="$PROJECT_DIR$/../Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springaop/springaop.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springaop/springaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springcore/springcore.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springcore/springcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springcoreadvanced/springcoreadvanced.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springcoreadvanced/springcoreadvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springjdbc/springjdbc.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springjdbc/springjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springmvc/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springmvcorm/springmvcorm.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springmvcorm/springmvcorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springprojects/springprojects/springorm/springorm.iml" filepath="$PROJECT_DIR$/../springprojects/springprojects/springorm/springorm.iml" />
     </modules>
   </component>
 </project>
